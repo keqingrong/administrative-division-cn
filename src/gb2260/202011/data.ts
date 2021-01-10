@@ -1,4 +1,4 @@
-import { ADDataItem } from './types';
+import { ADDataItem } from '../types';
 
 export const dataOf202011: ADDataItem[] = [
   {
