@@ -1,5 +1,5 @@
 import { ADDataItem } from './gb2260/types';
-export { dataOf202011 } from './gb2260';
+export * from './gb2260';
 
 /**
  * 默认地级行政单位区划代码
